@@ -1,3 +1,7 @@
+[![Go Version](https://shields.io)](https://go.dev)
+[![License: MIT](https://shields.io)](LICENSE)
+[![GitHub release](https://shields.io)](https://github.com/sudowhiterose/go-tg-motivation-bot)
+
 # 🚀 Telegram Motivation Bot
 
 Telegram bot written in **Go** 🐹 that delivers daily motivation. 
