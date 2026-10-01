@@ -1,6 +1,5 @@
 [![Go](https://img.shields.io/badge/Go-1.22+-00ADD8?style=flat&logo=go)](https://go.dev/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Release](https://img.shields.io/github/v/release/sudowhiterose/go-tg-motivation-bot?display_name=tag)](https://github.com/go-tg-motivation-bot/releases)
 
 # 🚀 Telegram Motivation Bot
 
